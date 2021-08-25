@@ -292,5 +292,10 @@ footer {
         'top-box-a'
         'top-box-b';
     }
+    
+    .wrapper {
+        margin: 0px 0px 30px -10px; 
+        gap: 0px;
+     }
 }
 
